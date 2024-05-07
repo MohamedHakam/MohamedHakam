@@ -13,7 +13,7 @@
 - 🌱 I’m currently **Front-End Developer**.
 
 - 📫	Education:
-    - CS (Nini ITI) Diploma, Route Acdemy.
+    - CS (Mini ITI) Diploma, Route Acdemy.
     - Full Stack Developer 11-months profissional Diploma, Route Acdemy.
     - Problem Solving & Algorithms Training (Coach Academy)
 
