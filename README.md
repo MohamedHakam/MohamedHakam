@@ -10,7 +10,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently **Front-End Developer**.
+- 🌱 I’m currently **Back-End Developer**.
 
 - 📫	Education:
     - CS (Mini ITI) Diploma, Route Acdemy.
