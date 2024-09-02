@@ -20,6 +20,11 @@
 
 - 💬 Ask me about **Angular Typescript JavaScript nodeJs PHP Laravel C# ASP.NetCore**
 - 📫 How to reach me **MohamedHakam92@gmail.com**
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-hakam-839769245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed-Hakam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamed.hakam3?mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.hakam3" height="30" width="40" /></a>
 
 <!--
 **MohamedHakam/MohamedHakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
