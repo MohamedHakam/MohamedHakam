@@ -5,11 +5,11 @@
 </p>
 
 
-
-
-<br>
-<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+<br>
+
 <br>
 <br>
 - 🌱 I’m currently **Back-End Developer**.
