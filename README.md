@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Abd El Hakam</h1>
-<h3 align="center">Software Web Developer.</h3>
+<h3 align="center">Software Developer.</h3>
 <p align="center">
-  I am a skilled software web developer with expertise in backend development using Laravel. I am passionate about creating clean, efficient, and user-friendly web applications that meet the needs of my clients. I have a deep understanding of software development best practices and am always eager to learn and improve my skills.
+  I am a skilled software developer with expertise in backend development using Laravel. I am passionate about creating clean, efficient, and user-friendly web applications that meet the needs of my clients. I have a deep understanding of software development best practices and am always eager to learn and improve my skills.
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamedHakam)](https://github.com/ryo-ma/github-profile-trophy)
